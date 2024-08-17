@@ -16,7 +16,7 @@ Compilación y Ejecución
 1. Clonar el Repositorio
 Si aún no has clonado el repositorio, usa el siguiente comando:
 
-git clone https://github.com/LizethRoman99/ToDoList.git
+git clone https://github.com/LizethRoman99/ToDoListPrueba.git
 
 
 2. Abrir el Proyecto
